@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "noah-unity-playground",
+"dataUrl": "_web-soccer.data.unityweb",
+"wasmCodeUrl": "_web-soccer.wasm.code.unityweb",
+"wasmFrameworkUrl": "_web-soccer.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
